@@ -1240,12 +1240,3 @@ def restart_bot():
 
 
 restart_bot()
-
-
-
-
-
-
-
-
-
